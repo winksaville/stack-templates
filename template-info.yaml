@@ -58,6 +58,9 @@ simple-hpack:
 simple-library:
   description:
 
+simple-mit:
+  description:
+
 spock:
   description: a lightweight web framework
 
